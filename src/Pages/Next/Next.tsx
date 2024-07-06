@@ -36,7 +36,7 @@ function Next() {
       <div>
         Don't have access to second page. Go to home page and fill the form
         first.
-        <a href="http://localhost:5173/">Home Page</a>
+        <a href="/">Home Page</a>
       </div>
     );
   }
