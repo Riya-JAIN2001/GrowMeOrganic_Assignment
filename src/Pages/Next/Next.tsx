@@ -1,4 +1,4 @@
-import "./next.css";
+import "./Next.css";
 
 import DepartmentsCategory from "../../Components/DepartmentsCategory/DepartmentsCategory";
 import ApiDataTable from "../../Components/ApiDataTable/ApiDataTable";
